@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_island">中国最大的岛屿---海南岛</string>
+    <string name="question_hot">中国最热的地方---吐鲁番</string>
+    <string name="question_river">中国最长的河流---黄河</string>
+    <string name="question_city">中国最大的省---新疆</string>
+    <string name="question_mount">中国最高的山---长白山</string>
+    <string name="true_button">正确</string>
+    <string name="false_button">错误</string>
+    <string name="next_button">下一题</string>
+    <string name="prev_button">上一题</string>
+    <string name="correct_toast">正确!</string>
+    <string name="incorrect_toast">错误!</string>
+    <string name="warning_text">你确定要这么做吗?</string>
+    <string name="show_answer_button">显示答案</string>
+    <string name="cheat_button">作弊</string>
+    <string name="judgment_toast">作弊可不好! </string>
+</resources>
